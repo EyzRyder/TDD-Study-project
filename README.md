@@ -174,3 +174,9 @@ sequenceDiagram
 Vamos utilizar Pyenv + Poetry, link de como preparar o ambiente abaixo:
 
 [poetry-documentation](https://github.com/nayannanara/poetry-documentation/blob/master/poetry-documentation.md)
+
+# Dev
+<a href="https://github.com/EyzRyder">
+  <img src="https://avatars.githubusercontent.com/u/85580011?v=4" alt="Gabriel" width="90" height="90"/>
+  <p>EyzRyder</p>
+</a>
